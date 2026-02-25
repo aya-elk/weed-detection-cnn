@@ -1,0 +1,13 @@
+{
+  "run_id": "20260214_175817__weedcnn_f3_img128_lr0.001_bs64",
+  "run_name": "weedcnn_f3_img128_lr0.001_bs64",
+  "fold": 3,
+  "epochs": 10,
+  "batch_size": 64,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "img_size": 128,
+  "num_workers": 4,
+  "seed": 42,
+  "model": "WeedCNN"
+}

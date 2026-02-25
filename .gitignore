@@ -1,0 +1,7 @@
+﻿data/images/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pt
+*.pth
+*.ckpt
